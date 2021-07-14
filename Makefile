@@ -1,5 +1,6 @@
 # Compile and run the Go code
 go_run:
+	go mod tidy
 	go run main.go
 
 docker_build:
