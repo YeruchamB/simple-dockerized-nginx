@@ -16,8 +16,8 @@ const (
 	HTMLFormat = `<!DOCTYPE html>
 <html>
 <body>
-<h1>Hi, Leo!</h1>
-<h2>Server stats:</h2>
+<h1>Hi!</h1>
+<h3>Server stats:</h3>
 <p>Hostname: %s<br>IP: %s<br>RAM: %s<br>Cores:%d<br></p>
 </body>
 </html>
